@@ -1,0 +1,40 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="sahneGecis">
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+			<method name="SahneDegistir"/>
+		</type>
+	</assembly>
+</linker>

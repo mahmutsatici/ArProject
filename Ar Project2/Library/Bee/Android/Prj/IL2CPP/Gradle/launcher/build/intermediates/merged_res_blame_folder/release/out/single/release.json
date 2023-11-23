@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.DefaultCompany.ArProject2.launcher-merged_res-23:/mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "com.DefaultCompany.ArProject2.launcher-main-24:/mipmap-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "com.DefaultCompany.ArProject2.launcher-merged_res-23:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.DefaultCompany.ArProject2.launcher-main-24:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.DefaultCompany.ArProject2.launcher-merged_res-23:/mipmap-mdpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.ArProject2.launcher-main-24:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.ArProject2.launcher-merged_res-23:/mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "com.DefaultCompany.ArProject2.launcher-main-24:/mipmap-anydpi-v26/app_icon_round.xml"
+    },
+    {
+        "merged": "com.DefaultCompany.ArProject2.launcher-merged_res-23:/mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "com.DefaultCompany.ArProject2.launcher-main-24:/mipmap-anydpi-v26/app_icon.xml"
+    }
+]
