@@ -31,7 +31,4 @@ Projenin yerel ortamınızda çalıştırılması için aşağıdaki adımları 
 ![Anasayfa](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/anasayfa.png)
 ![Koltuk Satın Alma](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/koltuk.png)
 ![Buzdolabı Satın Alma](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/buzdolabı.png)
-![Fırın Deneme](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/fırındeneme2.jpg){width=615px}
-![Koltuk Deneme](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/koltukdeneme.jpg)
-![Makine Deneme](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/makinedeneme2.jpg)
-<img src="https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/f%C4%B1r%C4%B1ndeneme2.jpg" alt="Çicek Resmi" style="width:100;" />
+[FırınDeneme(https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/fırındeneme2.jpg{width=615px[KoltukDeneme(https://github.com/mahmutsatici/ArPject/blob/main/Ar%20Project2/images/koltukdeneme.jpg)![Makine Deneme](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/makinedeneme2.jpg)
