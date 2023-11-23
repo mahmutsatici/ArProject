@@ -34,3 +34,4 @@ Projenin yerel ortamınızda çalıştırılması için aşağıdaki adımları 
 ![Fırın Deneme](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/fırındeneme2.jpg){width=615px}
 ![Koltuk Deneme](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/koltukdeneme.jpg)
 ![Makine Deneme](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/makinedeneme2.jpg)
+<img src="(https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/f%C4%B1r%C4%B1ndeneme2.jpg)" alt="Çicek Resmi" style="width:615;" />
