@@ -26,3 +26,5 @@ Projenin yerel ortamınızda çalıştırılması için aşağıdaki adımları 
 - Uygulamayı başlatın.
 - Uygulamayı build edip bir mobil cihazda test edin.
 - Her ürün sayfasında bulunan "Deneyin" butonuna tıklayarak ARCore ile ürünleri sanal ortamda deneyin.
+
+https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/anasayfa.png
