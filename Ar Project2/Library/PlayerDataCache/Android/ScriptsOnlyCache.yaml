@@ -404,6 +404,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 33
       Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
     - Class: 64
@@ -2483,4 +2485,4 @@ ScriptsOnlyBuild:
   - Assets/Scenes/dryertry.unity
   - Assets/Scenes/stovesales.unity
   - Assets/Scenes/stovetry.unity
-  playerPath: C:/Users/st_fa/Desktop/uygulama5.apk
+  playerPath: C:/Users/st_fa/Desktop/uygulama6.apk
