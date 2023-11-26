@@ -11,13 +11,13 @@ Projenin yerel ortamınızda çalıştırılması için aşağıdaki adımları 
 
 - Unity 3D (versiyon: 2023.2.0b17)
 - ARCore ve AR Foundation eklentileri
-- ArCore uygulamayı çalıştıracak bir telefon
+- ArCore uygulamayı çalıştıracak bir android telefon
 
 ## Kurulum
 - Unity'i resmi web sitesinden indirin ve yükleyin.
 - Proje dosyalarını bu depodan bilgisayarınıza indirin.
 - Unity projesini açın.
-- Proje içindeki MainScene sahnesini açın.
+- Proje içindeki HomeScreen sahnesini açın.
 - Gerekli eklentileri Unity Asset Store veya proje içinden yükleyin.
 
 ## Kullanım
