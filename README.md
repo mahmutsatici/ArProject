@@ -28,6 +28,7 @@ Projenin yerel ortamınızda çalıştırılması için aşağıdaki adımları 
 - Her ürün sayfasında bulunan "Deneyin" butonuna tıklayarak ARCore ile ürünleri sanal ortamda deneyin.
 
 ## Uygulama Resimleri
+![full](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/full.png)
 ![Anasayfa](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/anasayfa.png)
 ![Koltuk Satın Alma](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/koltuk.png)
 ![Buzdolabı Satın Alma](https://github.com/mahmutsatici/ArProject/blob/main/Ar%20Project2/images/buzdolabı.png)
