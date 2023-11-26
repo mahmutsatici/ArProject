@@ -363,7 +363,6 @@
             "name": "Mesh",
             "scenes": [
               "Assets/Scenes/armchairtry.unity",
-              "Assets/Scenes/chairtry.unity",
               "Assets/Scenes/dryertry.unity",
               "Assets/Scenes/fridgetry.unity",
               "Assets/Scenes/sofatry.unity",

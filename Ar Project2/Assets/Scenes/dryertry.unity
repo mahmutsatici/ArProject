@@ -425,7 +425,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 70d68d3dda70610418113c1222e427c0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  placedPrefab: {fileID: 6950854861727644666, guid: eae26ab7edb22a54e8fab415ccacc23e, type: 3}
+  placedPrefab: {fileID: 6950854861727644666, guid: cc424fa72aeae20408ad5d51f9d85596, type: 3}
 --- !u!114 &223974230
 MonoBehaviour:
   m_ObjectHideFlags: 0
