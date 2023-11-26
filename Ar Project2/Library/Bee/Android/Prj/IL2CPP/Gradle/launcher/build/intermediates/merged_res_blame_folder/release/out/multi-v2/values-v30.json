@@ -4,7 +4,7 @@
             "outputFile": "com.DefaultCompany.ArProject2.launcher-mergeReleaseResources-21:/values-v30/values-v30.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\st_fa\\Desktop\\dezktop\\unity\\Ar Project2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values-v30\\values-v30.xml",
+                    "source": "C:\\Users\\st_fa\\Documents\\GitHub\\ArProject\\Ar Project2\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\build\\intermediates\\packaged_res\\release\\values-v30\\values-v30.xml",
                     "from": {
                         "startLines": "2,3,4,5,6",
                         "startColumns": "4,4,4,4,4",

@@ -412,16 +412,8 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.2.0b17/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.2.0b17/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.2.0b17/Editor/Data/Tools/Unity.SourceGenerators/Unity.UIToolkit.SourceGenerator.dll"
-"Assets/onclick.cs"
-"Assets/Scenes/sahneGecis.cs"
-"Assets/Scripts/InputSystem/TouchControls.cs"
-"Assets/Scripts/PlaceMultipleObjectsOnPlane.cs"
-"Assets/Scripts/PlaceMultipleObjectsOnPlaneNewInputSystem.cs"
-"Assets/Scripts/PlaceMultipleObjectsOnPlaneOldInputSystem.cs"
-"Assets/Scripts/PlaceOnPlane.cs"
-"Assets/Scripts/PlaceOnPlaneNewInputSystem.cs"
 "Assets/Scripts/PlaceOnPlaneOldInputSystem.cs"
-"Assets/Scripts/PressInputBase.cs"
+"Assets/Scripts/sahneGecis.cs"
 -langversion:9.0
 
 /deterministic
