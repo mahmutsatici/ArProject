@@ -30,3 +30,6 @@ Projenin yerel ortamınızda çalıştırılması için aşağıdaki adımları 
 ## Uygulama Resimleri
 ![full](https://github.com/mahmutsatici/DersProgrami/blob/main/My%20project/ProjePicture/proje.png)
 
+## Veritabanı Tabloları
+![full](https://github.com/mahmutsatici/DersProgrami/blob/main/My%20project/ProjePicture/veritabani.png)
+
